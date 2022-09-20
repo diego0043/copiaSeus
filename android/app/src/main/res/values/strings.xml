@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SEUS</string>
+    <string name="title_activity_main">SEUS</string>
+    <string name="package_name">com.seus.app</string>
+    <string name="custom_url_scheme">com.seus.app</string>
+</resources>
